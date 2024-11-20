@@ -4,7 +4,7 @@
 
 # 示例
 
-![Demo](/resources/demo.gif)  
+![Demo](/doc/demo.gif)  
 
 **只需要简单运行 main.py 就可以达到这个效果**
 

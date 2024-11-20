@@ -1,12 +1,12 @@
 # 🐈RunCat
-🇨🇳[ 简体中文](README.zh.md)  
+🇨🇳[ 简体中文](doc/README.zh.md)  
 
 A cute running cat animation on your Linux taskbar.  
 The speed depends on your CPU usage.
 
 # Demo
 
-![Demo](/resources/demo.gif)  
+![Demo](/doc/demo.gif)  
 
 **You only have to run the main.py**
 
